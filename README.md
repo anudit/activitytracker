@@ -1,2 +1,1 @@
-# activitytracker
-Moodle online activity tracker
+# Moodle Online Activity Tracker
